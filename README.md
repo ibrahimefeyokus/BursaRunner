@@ -2,6 +2,10 @@
 
 Bursa'nın simgelerinin arasında geçen, 2D pixel art sonsuz koşu oyunu. Uludağ'ın eteğinden başlayıp Yeşil Türbe, Irgandı Köprüsü, Heykel ve Suuçtu Şelalesi'ne uzanan yolda engellerden kaç, kestaneleri topla, rekoru kır. Bir an durursan... **TİMSAH OLDUN!**
 
+<p align="center">
+  <img src="docs/menu.png" alt="BursaRunner ana menü" width="720">
+</p>
+
 ## Nasıl Oynanır?
 
 | Tuş | Hareket |
@@ -12,6 +16,18 @@ Bursa'nın simgelerinin arasında geçen, 2D pixel art sonsuz koşu oyunu. Uluda
 - Kestaneleri topla, skorunu artır
 - Tramvayın **üstüne** çıkabilirsin ama **yanına** çarparsan oyun biter
 - Engele takılırsan "TİMSAH OLDUN!" ekranı gelir
+
+## Ekran Görüntüleri
+
+Koşulan mesafe arttıkça arka plan değişir: Uludağ, Irgandı Köprüsü ve Suuçtu Şelalesi.
+
+| Uludağ | Irgandı Köprüsü | Suuçtu Şelalesi |
+|---|---|---|
+| ![Uludağ sahnesi](docs/oyun_uludag.png) | ![Irgandı Köprüsü sahnesi](docs/oyun_irgandi.png) | ![Suuçtu Şelalesi sahnesi](docs/oyun_selale.png) |
+
+<p align="center">
+  <img src="docs/timsah_oldun.png" alt="TİMSAH OLDUN oyun sonu ekranı" width="600">
+</p>
 
 ## Özellikler
 
